@@ -2,7 +2,7 @@
 
 - 🔭 Estou procurando uma Oportunidade na área de Front-end
 - 🌱 Estudante da Digital House 
-- 💬 Contate-me no email: dudu9090@outlook.com.br
+- 💬 Contate-me no email: eduardo.serodio@outlook.com
 - 😄 Ele/Dele
 
 <div align="center">
