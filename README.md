@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eduardo Serodio
 
-- 🔭 Estou procurando uma Oportunidade na área de Front-end
+- 🔭 Estou procurando uma Oportunidade na área de Back-end
 - 🌱 Estudante da Digital House 
 - 💬 Contate-me no email: eduardo.serodio@outlook.com
 - 😄 Ele/Dele
