@@ -1,4 +1,4 @@
-## Olá! Eu sou o Eduardo Serodio
+## Olá! Eu sou o Eduardo Serodio Souto
 
 - 🔭 Estou procurando uma Oportunidade na área de Back-end
 - 🌱 Estudante da Digital House 
