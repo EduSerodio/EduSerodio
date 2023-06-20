@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eduardo Serodio Souto
 
-- 🌱 Estudante da Digital House 
+- 🌱 Software Developer
 - 💬 Contate-me no email: eduardo.serodio@outlook.com
 - 😄 Ele/Dele
 
